@@ -3,12 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAMID.com.uchigakirio.kintore",
+        "appID": "A946Q7RTJL.com.uchigakirio.kintore",
         "paths": ["/l/*", "/u/*", "/w/*", "/invite/*", "/auth/*"]
       }
     ]
   },
   "webcredentials": {
-    "apps": ["TEAMID.com.uchigakirio.kintore"]
+    "apps": ["A946Q7RTJL.com.uchigakirio.kintore"]
   }
 }
